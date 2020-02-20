@@ -1,0 +1,8 @@
+2020-02-20 23:05:45,181 (SpawnPoolWorker-3 pid:10326) line-134  Tentacle <run> - [INFO] : Running Tentacle.2020-02-20 23:06:45,191 (SpawnPoolWorker-6 pid:10329) line-74  Detector <detect_standby> - [INFO] : Imported the "standby" database' data,length: 61 
+2020-02-20 23:06:45,191 (SpawnPoolWorker-6 pid:10329) line-76  Detector <detect_standby> - [INFO] : Start to detect the local valid data,amount: 61 
+2020-02-20 23:06:45,230 (SpawnPoolWorker-6 pid:10329) line-80  Detector <detect_standby> - [INFO] : Detection finished.Left standby data length:0
+2020-02-20 23:06:45,231 (SpawnPoolWorker-6 pid:10329) line-91  Detector <detect_stable> - [INFO] : Imported the "stable" data2020-02-20 23:06:54,625 (SpawnPoolWorker-4 pid:10327) line-96  Scanner <run> - [INFO] : Start the validation of the local "standby" database,length : 70 
+2020-02-20 23:06:54,625 (SpawnPoolWorker-4 pid:10327) line-101  Scanner <run> - [INFO] : Start to verify the standby proxy data,amount: 70 
+2020-02-20 23:07:00,071 (SpawnPoolWorker-4 pid:10327) line-104  Rator <mark_fail> - [WARNING] : Deleting unstable proxy: 120.42.132.66:9999 
+-97  Detector <detect_stable> - [INFO] : Detection finished.Left stable data length:0
+10325) line-54  Collector <run> - [INFO] : Received 30 proxy data from a spider.
